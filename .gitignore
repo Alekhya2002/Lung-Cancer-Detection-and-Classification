@@ -1,0 +1,11 @@
+*.h5
+*.hdf5
+SavedModel/
+MP/
+data/
+aug/
+file.zip
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Other (1).docx
